@@ -1,0 +1,132 @@
+body{
+    background-color: #667085;
+}
+
+#header{
+    font-family: Inter;
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 39px;
+        letter-spacing: 0em;
+        text-align: left;
+        background-color: #F4B41B;
+}
+.colortext{
+    color: #FCC647;
+    
+}
+
+#neck{
+    width: 573px;
+    height: 164px; 
+    top: 252px; 
+    left: 136px;
+}
+#main {
+    
+}
+.div{
+    
+}
+/* butoon1 */
+.button1{
+    width: 147.75px;       
+    height: 38.75px;
+    top: 201px;
+    left: 136px;
+    padding: 0px,9.5px, 0px,9.5px;
+    border-radius: 7.13px;
+    gap: 9.5px;
+
+    color: #F4B41B;
+    background-color: #FFF2D4;
+}
+
+.text1{
+    width: 105px;
+    height: 15px;
+    font-family: Inter;
+        font-size: 17px;
+        font-weight: 600;
+        line-height: 14px;
+        letter-spacing: 0px;
+        text-align: center;
+}
+/* salad */
+/* .wrap{
+    position: relative;
+    width: 1219.48px;
+    height: 526.89px;
+    top: 158.11px;
+    left: 614.32px;
+}
+.fonyellow{
+    width: 463.522px;
+    height: 1035.759px;
+    transform: rotate(-90deg);
+    flex-shrink: 0;
+}
+.salad{
+    width: 471.429px;
+    height: 477.359px;
+    flex-shrink: 0;
+} */
+/* Заголовок */
+
+.lorem{
+    color: #667085;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.colortext2{
+    color: #FFC12F;
+}
+.button2{
+    width: 146px;
+    height: 52px;
+    top: 553px;
+    left: 137px;
+    background-color: #f7bb31ec;
+}
+.text2{
+    width: 106px;
+    height: 24px;
+    top: 15px;
+    left: 20px;
+    color: #FFFFFF;
+    font-family: Inter;
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.button3{
+    width: Hug 109px;
+    height: Hug 32px;
+    top: 2689px;
+    left: 765px;
+    padding: 0px, 8px, 0px, 8px;
+    border-radius: 6px;
+    gap: 8px;
+
+    color: #F4B41B;
+    background-color: #FFF2D4;
+}
+.button4{
+    width: Hug 121px;
+    height: Hug 44px;
+    top: 3152px;
+    left: 767px;
+    padding: 6px, 9px, 6px, 9px;
+    border-radius: 6px;
+    gap: 8px;
+    background-color: #f7bb31ec;
+}
+
+
